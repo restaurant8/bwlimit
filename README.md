@@ -2,8 +2,6 @@
 
 用 `tc` 把 Linux VPS 的带宽限制为固定值(入口 / 出口)。需要 root 和 `iproute2`。
 
-把下面的 `restaurant8/bwlimit` 换成你的仓库。
-
 ## 一键安装(入口限 5Mbps,开机自动生效)
 
 ```bash
